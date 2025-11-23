@@ -1,0 +1,7 @@
+This video shows a very limited part of the project .
+It includes :
+	1. Connecting VPN using openconnect 
+	2. Using SSH to login to the device 
+	3. Loading the modules in Yangsuite Protocols and Explore section 
+	4. Initiating a POST call to assign an IP address to GigabitEthernet3 via Postman 
+	5. Running the Linux script and viewing the output in the terminal 

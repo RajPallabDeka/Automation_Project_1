@@ -1,0 +1,3 @@
+{
+  "Cisco-IOS-XE-native:hostname": "cat8000v"
+}

@@ -1,0 +1,3 @@
+If certificate expires use 
+	sudo openconnect --servercert pin-sha256:+AWthAb/5id6Wk62ZIQiiunVvHSJWQ0j6BAk4E2sXn8= {VPN_server_address}
+ It specifies the certificate and forces VPN to only trust the server with the specified certificate.
