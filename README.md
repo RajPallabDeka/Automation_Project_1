@@ -34,7 +34,6 @@ automation in real life environment.
 ## Project Blueprint :
 
         Client(Postman , Linux Script)
-            API endpoint(Client)
                   |
                   |
             RESTCONF API CALL
